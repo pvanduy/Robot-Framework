@@ -31,6 +31,13 @@ Robot Framework is a versatile tool used for both test automation and RPA. Its k
 
 ---
 
+- ✅ Suite Setup & Teardown: Runs once before/after the entire test suite.
+- ✅ Test Setup & Teardown: Runs before/after each test case.
+- ✅ Tags: Assign labels to categorize and run test cases selectively.
+- ✅ Documentation: Provides descriptions to improve readability and test management.
+
+---
+
 ## 🛠️ Installation
 
 Follow these steps to install Robot Framework:
