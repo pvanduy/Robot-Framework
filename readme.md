@@ -46,6 +46,11 @@ Follow these steps to install Robot Framework:
    ```bash
    python --version
    ```
+2. Create a Virtual Environment and Active:
+   ```bash
+   python -m venv <ven_name>
+   <ven_name>\Scripts\activate
+   ```
 2. Install Robot Framework:
    ```bash
    pip install robotframework
