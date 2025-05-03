@@ -120,3 +120,16 @@ Login Test
 
 ---
 
+| Launch Argument                    | Description                                                              |
+|-----------------------------------|--------------------------------------------------------------------------|
+| `--headless`                      | Runs the browser in headless (invisible) mode                            |
+| `--disable-gpu`                   | Disables GPU hardware acceleration (helps when running headless)         |
+| `--window-size=1920,1080`         | Sets the browser window size (important in headless mode)                |
+| `--no-sandbox`                    | Disables the sandbox, often required in CI environments like Docker      |
+| `--disable-dev-shm-usage`         | Avoids shared memory issues in containers                                |
+| `--incognito`                     | Opens the browser in incognito mode                                      |
+| `--start-maximized`               | Starts the browser in maximized window                                   |
+| `--disable-extensions`            | Disables Chrome extensions                                               |
+| `--ignore-certificate-errors`     | Ignores certificate-related SSL errors                                   |
+
+---
