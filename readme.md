@@ -5,15 +5,13 @@ Welcome to the **Robot Framework** guide repository! Robot Framework is a powerf
 ---
 
 ## 📚 Table of Contents
-- [Introduction](#introduction)
-- [Key Features](#key-features)
-- [Installation](#installation)
-- [Getting Started](#getting-started)
-- [Example Test Case](#example-test-case)
-- [Libraries and Resources](#libraries-and-resources)
-- [Best Practices](#best-practices)
-- [Contributing](#contributing)
-- [License](#license)
+- [Introduction](#-introduction)
+- [Key Features](#-key-features)
+- [Installation](#-installation)
+- [Getting Started](#-getting-started)
+- [Example Test Case](#-example-test-case)
+- [Libraries and Resources](#-libraries-and-resources)
+- [Robot Framework Launch Arguments](#%EF%B8%8F-robot-framework-launch-arguments)
 
 ---
 
@@ -118,6 +116,8 @@ Login Test
 - [RequestsLibrary](https://marketsquare.github.io/robotframework-requests/)
 
 ---
+
+## ⚙️ Robot Framework Launch Arguments
 
 | Launch Argument                    | Description                                                              |
 |-----------------------------------|--------------------------------------------------------------------------|
